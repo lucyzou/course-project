@@ -1,8 +1,8 @@
 ## DATA DICTIONARY--tidy data
-*subject         1
+###  subject         1
     subject code. Each number identifies the subject who performed the 
     activity for each window sample. Its range is from 1 to 30. 
-*activity        8
+###activity        8
   activity name. It is factor with 6 levels. The name of activity which the subject perform.
   They are  WALKING ,WALKING_UPSTAIRS , WALKING_DOWNSTAIRS,  SITTING  STANDING  LAYING.
 *The following variable name are different paterns come from the accelerometer and gyroscope 
